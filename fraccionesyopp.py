@@ -8,7 +8,7 @@
 #   - Creación de clases y objetos
 #   - Sobrecarga de operadores para aritmética básica (+, -, *, /)
 #   - Herencia (la clase FraccionMixta hereda de Fraccion)
-#
+# Elaboración: Francisco Javier Pérez 
 
 class Fraccion:
     """Clase para representar y operar con fracciones."""
